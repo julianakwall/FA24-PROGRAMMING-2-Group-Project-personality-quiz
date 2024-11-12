@@ -1,7 +1,9 @@
-# FA24-PROGRAMMING-2-Group-Project-personality-quiz
+This project involves creating a personality quiz based on user input.
 
-This project we will be doing a peronality quiz
+Team Roles
 
-Adam is the group leader
+Adam Adamczyk: Group Leader
+Juliana & Micael: Roles to be determined (this will be updated once responsibilities are assigned).
+Status
 
-Still working on what Juliana & Micael will be doing will update this once we get more information.
+We are currently in the planning phase and will update this file with more details as the project progresses.
