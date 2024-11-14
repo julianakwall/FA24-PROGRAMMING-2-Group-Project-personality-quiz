@@ -3,6 +3,7 @@ This project involves creating a personality quiz based on user input.
 Team Roles
 
 Adam : Group Leader
+
 Juliana & Daniel: Roles to be determined (this will be updated once responsibilities are assigned).
 
 
